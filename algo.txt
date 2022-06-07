@@ -1,0 +1,4 @@
+# Prueba
+Primer encuentro con Git
+
+No sé que estoy haciendo, ayudaaaaaa
